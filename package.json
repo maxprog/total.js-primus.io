@@ -1,0 +1,18 @@
+{
+  "name": "total.js-primus.io",
+  "author": "Greg Kroczek",
+  "repository": "https://github.com/maxprog/total.js-primus.io.git",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debug.js",
+  "dependencies": {
+    "primus.io": "^4.0.0",
+    "total.js": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
